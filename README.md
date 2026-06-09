@@ -27,7 +27,7 @@
 
 ## 片场札记
 
-- Python / PowerShell / GitHub / VS Code
+- Java / C++ / Python / Codex / Claude / GitHub Actions
 - 关注工具体验，也关注它呈现出来的气质
 
 ## 一句话
