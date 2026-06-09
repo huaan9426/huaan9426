@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/kage-profile.svg" alt="HUAAN 电影美学片头" />
+<img width="100%" src="https://raw.githubusercontent.com/huaan9426/huaan9426/main/assets/kage-profile.svg" alt="HUAAN 电影美学片头" />
 
 </div>
 
@@ -27,7 +27,6 @@
 
 ## 片场札记
 
-- 311 contributions in the last year
 - Python / PowerShell / GitHub / VS Code
 - 关注工具体验，也关注它呈现出来的气质
 
